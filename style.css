@@ -134,6 +134,7 @@ footer{
 	bottom: 0px;
 	left: 50%;
 	transform: translate(-50%);
+	text-align:center;
 }
 
 @media (min-width:500px){
@@ -149,7 +150,7 @@ footer{
 @media (max-width:480px){
 	body{
 		background-image:url("./images/pattern-background-mobile.svg")
-		height: 100vh;
+		
 	}
 	.content{
 		width:86%;
