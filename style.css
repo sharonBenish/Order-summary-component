@@ -31,7 +31,7 @@ body {
 }
 
 .content{
-	position:absolute;
+	position:relative;
 	left:50%;
 	top:50%;
 	background-color: hsl(0, 0%, 100%);
@@ -159,7 +159,7 @@ footer{
 	}
 	.content{
 		width:86%;
-		max-height:80%;
+		
 		
 	}
 	.hero img{
