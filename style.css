@@ -132,7 +132,7 @@ button:hover{
 
 footer{
 	font-size: 12px;
-	position: fixed;
+	position: absolute;
 	bottom: 0px;
 	left: 50%;
 	transform: translate(-50%);
