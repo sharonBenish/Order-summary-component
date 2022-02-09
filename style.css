@@ -26,12 +26,13 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color:hsl(225, 100%, 94%);
-	height:100vh;
+	height:100%;
 	
 }
 
 .parent{
 	position:relative;
+	height:500px;
 	
 }
 
