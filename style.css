@@ -141,6 +141,7 @@ footer{
 @media (min-width:500px){
 	.content{
 		width:350px;
+		overflow:auto;
 		
 	}
 	.hero img{
