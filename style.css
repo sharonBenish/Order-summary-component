@@ -39,6 +39,7 @@ body {
 	left:50%;
 	top:50%;
 	transform: translateX(-50%);
+	transform: translateY(50%);
 	
 	background-color: hsl(0, 0%, 100%);
 	border-radius:1rem;
