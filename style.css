@@ -31,7 +31,7 @@ body {
 }
 
 .content{
-	position:relative;
+	position:absolute;
 	left:50%;
 	top:50%;
 	background-color: hsl(0, 0%, 100%);
