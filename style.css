@@ -32,12 +32,12 @@ body {
 
 .parent{
 	position:relative;
+	height:600px;
 	
 }
 
 .content{
 	position:absolute;
-	height:auto;
 	left:50%;
 	top:50%;
 	transform: translateX(-50%);
