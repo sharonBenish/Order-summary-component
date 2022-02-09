@@ -146,6 +146,10 @@ footer{
 	.hero img{
 		width:350px;
 	}
+	
+	.text{
+		max-width:100%
+	}
 }
 
 @media (max-width:480px){
