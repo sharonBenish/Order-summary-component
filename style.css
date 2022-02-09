@@ -135,7 +135,7 @@ footer{
 	bottom: 0px;
 	left: 50%;
 	transform: translate(-50%);
-	
+	text-align:center;
 	margin-top:10px;
 }
 
@@ -159,6 +159,7 @@ footer{
 	}
 	.content{
 		width:86%;
+		max-height:80%;
 		
 	}
 	.hero img{
